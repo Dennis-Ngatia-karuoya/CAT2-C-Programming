@@ -3,8 +3,8 @@
 
 int main() {
     int i,j;
-  int scores[2][2] = {{65, 92}, {84, 72}};
-  int scores2[2][2] = {{35, 70}, {59, 67}};
+  int scores[2][2] = {{65, 92},{84, 72}};
+  int scores2[2][2] = {{35, 70},{59, 67}};
 
   printf("Array 1:\n");
   for (int i = 0; i < 2; i++) {
